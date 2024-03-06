@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Faker.Faker
 {
-    internal class Faker
+    public class Faker : IFaker
     {
+        public Faker() 
+        { }
+
+        public T Create<T>()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
