@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\Faker\\Faker.csproj",
-      "projectName": "Faker",
-      "projectPath": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\Faker\\Faker.csproj",
+      "projectUniqueName": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\FakerGenerator\\FakerGenerator.csproj",
+      "projectName": "FakerGenerator",
+      "projectPath": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\FakerGenerator\\FakerGenerator.csproj",
       "packagesPath": "C:\\Users\\Inten\\.nuget\\packages\\",
-      "outputPath": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\Faker\\obj\\",
+      "outputPath": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\FakerGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programs\\Visual Studio\\SDK\\NuGetPackages"
