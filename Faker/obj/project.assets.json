@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\Faker\\Faker.csproj",
-      "projectName": "Faker",
-      "projectPath": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\Faker\\Faker.csproj",
+      "projectUniqueName": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\Faker\\DtoGenerator.csproj",
+      "projectName": "DtoGenerator",
+      "projectPath": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\Faker\\DtoGenerator.csproj",
       "packagesPath": "C:\\Users\\Inten\\.nuget\\packages\\",
       "outputPath": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\Faker\\obj\\",
       "projectStyle": "PackageReference",

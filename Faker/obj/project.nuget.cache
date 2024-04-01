@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bI0MmTX8xAjMXLEJEHrHCGj8vkEuzNuUI+bCwLxpheW0VKr+6iUDlNH3S7T3DyvuURF7+Q4bNX0fNyye2hD1DQ==",
+  "dgSpecHash": "Zqezu5PdvK7tROrpSulKBVzmyzat8T0bLFbPxSN3aTQ4KNDvCHHvDeIlsMCRZjHoO+WJOhDs/4a8kZoKC5J1nA==",
   "success": true,
-  "projectFilePath": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\Faker\\Faker.csproj",
+  "projectFilePath": "D:\\Bugor\\6sem\\ProgrammingPlatforms\\projects\\2. Faker\\Faker\\Faker\\DtoGenerator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

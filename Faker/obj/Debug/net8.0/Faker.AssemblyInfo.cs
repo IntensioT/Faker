@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Faker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5310de5140d0c0d405804ed34ba7b668a2acde80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5445649f9917fa62d85a8a02e44d79e6222c637")]
 [assembly: System.Reflection.AssemblyProductAttribute("Faker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Faker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
