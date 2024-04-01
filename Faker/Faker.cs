@@ -1,6 +1,7 @@
 using System.Reflection;
 using DtoGenerator.Config;
 using DtoGenerator.Generator;
+using DtoGenerator.Generator.Generators;
 
 namespace DtoGenerator;
 

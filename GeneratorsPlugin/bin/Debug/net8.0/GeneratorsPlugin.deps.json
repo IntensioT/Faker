@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GeneratorsPlugin/1.0.0": {
+        "dependencies": {
+          "DtoGenerator": "1.0.0",
+          "FakerGenerator": "1.0.0"
+        },
+        "runtime": {
+          "GeneratorsPlugin.dll": {}
+        }
+      },
+      "DtoGenerator/1.0.0": {
+        "runtime": {
+          "DtoGenerator.dll": {}
+        }
+      },
+      "FakerGenerator/1.0.0": {
+        "dependencies": {
+          "DtoGenerator": "1.0.0"
+        },
+        "runtime": {
+          "FakerGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeneratorsPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DtoGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FakerGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
