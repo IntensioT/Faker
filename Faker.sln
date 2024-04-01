@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakerGenerator", "FakerGene
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{6FC37535-6967-499E-BADC-3D0749E74713}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneratorsPlugin", "GeneratorsPlugin\GeneratorsPlugin.csproj", "{7E8122D4-CC38-4438-A123-3455D51185E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6FC37535-6967-499E-BADC-3D0749E74713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FC37535-6967-499E-BADC-3D0749E74713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FC37535-6967-499E-BADC-3D0749E74713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8122D4-CC38-4438-A123-3455D51185E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8122D4-CC38-4438-A123-3455D51185E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8122D4-CC38-4438-A123-3455D51185E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8122D4-CC38-4438-A123-3455D51185E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

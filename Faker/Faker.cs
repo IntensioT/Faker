@@ -7,11 +7,11 @@ namespace DtoGenerator;
 public class Faker
 {
     private readonly Dictionary<Type, IGenerator> _generators = new();
-
+    // already created types
     private readonly ISet<Type> _generatedTypes = new HashSet<Type>();
-
+    // external plugins loader
     private readonly GeneratorsLoader _loader;
-
+    // configs for already created types
     private readonly Dictionary<Type, Dictionary<(string, Type), IGenerator>> _configGenerators;
 
     public Faker(GeneratorsLoader loader, FakerConfig fakerConfig)
@@ -26,13 +26,14 @@ public class Faker
 
         _configGenerators = fakerConfig.ConfigGenerators;
     }
-
+    // If Attribute setted
     private bool IsDto(Type t)
     {
-        Attribute? attribute = t.GetCustomAttribute(typeof(DtoAttribute));
+        Attribute? attribute = t.GetCustomAttribute(typeof(DtoAttribute)); // reflection search
         return attribute is not null;
     }
-    
+
+    //////////////////////////////////////////////////////////////////////////////////////////////
     private FieldInfo[] GetPublicFields(Type t)
     {
         return t.GetFields(BindingFlags.Instance | BindingFlags.Public);
@@ -62,6 +63,7 @@ public class Faker
 
         return chosenConstructor;
     }
+    /// //////////////////////////////////////////////////////////////////////////////////
 
     private object CreateDto(Type t)
     {
