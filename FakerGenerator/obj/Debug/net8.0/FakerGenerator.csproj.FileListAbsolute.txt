@@ -1,0 +1,16 @@
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\obj\Debug\net8.0\FakerGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\obj\Debug\net8.0\FakerGenerator.AssemblyInfoInputs.cache
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\obj\Debug\net8.0\FakerGenerator.AssemblyInfo.cs
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\obj\Debug\net8.0\FakerGenerator.csproj.CoreCompileInputs.cache
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\obj\Debug\net8.0\FakerGenerator.sourcelink.json
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\obj\Debug\net8.0\FakerGenerator.csproj.AssemblyReference.cache
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\bin\Debug\net8.0\FakerGenerator.deps.json
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\bin\Debug\net8.0\FakerGenerator.dll
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\bin\Debug\net8.0\FakerGenerator.pdb
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\bin\Debug\net8.0\DtoGenerator.dll
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\bin\Debug\net8.0\DtoGenerator.pdb
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\obj\Debug\net8.0\FakerGen.DA17B011.Up2Date
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\obj\Debug\net8.0\FakerGenerator.dll
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\obj\Debug\net8.0\refint\FakerGenerator.dll
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\obj\Debug\net8.0\FakerGenerator.pdb
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\FakerGenerator\obj\Debug\net8.0\ref\FakerGenerator.dll

@@ -1,0 +1,12 @@
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\bin\Debug\net8.0\DtoGenerator.deps.json
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\bin\Debug\net8.0\DtoGenerator.dll
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\bin\Debug\net8.0\DtoGenerator.pdb
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\DtoGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\DtoGenerator.AssemblyInfoInputs.cache
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\DtoGenerator.AssemblyInfo.cs
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\DtoGenerator.csproj.CoreCompileInputs.cache
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\DtoGenerator.sourcelink.json
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\DtoGenerator.dll
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\refint\DtoGenerator.dll
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\DtoGenerator.pdb
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\ref\DtoGenerator.dll

@@ -1,0 +1,12 @@
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\bin\Debug\net8.0\Faker.deps.json
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\bin\Debug\net8.0\Faker.dll
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\bin\Debug\net8.0\Faker.pdb
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\Faker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\Faker.AssemblyInfoInputs.cache
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\Faker.AssemblyInfo.cs
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\Faker.csproj.CoreCompileInputs.cache
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\Faker.sourcelink.json
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\Faker.dll
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\refint\Faker.dll
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\Faker.pdb
+D:\Bugor\6sem\ProgrammingPlatforms\projects\2. Faker\Faker\Faker\obj\Debug\net8.0\ref\Faker.dll
